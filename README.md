@@ -1,1 +1,1 @@
-# Gesture-Controlled-Mouse
+# Control-Mouse
